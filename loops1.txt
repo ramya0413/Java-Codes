@@ -1,0 +1,14 @@
+class Sample
+{
+  public static void main(String[] args)
+  {
+    int n=Integer.parseInt(args[0]);
+    int sum=0;
+    while(n<=100)
+    {
+      sum=sum+i;
+      i++;
+      System.out.print(i);
+    }
+  }
+}
